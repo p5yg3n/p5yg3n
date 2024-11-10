@@ -1,6 +1,6 @@
-+ Options Trader 💸
-+ Godot Developer 🎮
-+ Sayer of Random Things 🧀
++ Novelty Troubleshooter 🧩
++ Godot  Developer 🎮
++ Useless Fact Generator 🧀
 + Github: https://github.com/p5yg3n
 + Social Media: https://x.com/p5yg3n
 <!---
